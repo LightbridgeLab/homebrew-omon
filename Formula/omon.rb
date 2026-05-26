@@ -3,8 +3,8 @@ class Omon < Formula
 
   desc "Local-first monitoring and management tool for Ollama"
   homepage "https://github.com/LightbridgeLab/OllamaMon"
-  url "https://github.com/LightbridgeLab/OllamaMon/archive/refs/tags/v0.6.3.tar.gz"
-  sha256 "45661b2166d0180b596fe4f3a94b4bdeed8a8e3b4dfcc9a57b4898c3a9a940e9"
+  url "https://github.com/LightbridgeLab/OllamaMon/archive/refs/tags/v0.6.5.tar.gz"
+  sha256 "dfa9eb97c9b678e65e73c03e3e00e4c3c4e74a57576dceda7ae2d9b82757d17e"
   license "MIT"
 
   depends_on "python@3.13"
